@@ -1,6 +1,4 @@
 # DSAL
 Develop Script Active Language
-是一个以ActiveX脚本语言为基础而增强的语法体系
-通过这种增强后的语法，开发者可以在脚本运行中改变脚本的语言
-具体语法请看文件内的.docx文件
-CHINESE ONLY
+以ActiveX脚本语言为基础的衍生语言，开发者可以在此环境的脚本运行时用代码改变其基本语言。通过增强过的语法让你更加高效的完成工作；
+核心运行程序为 DSAL Console，喵喵 =-=
